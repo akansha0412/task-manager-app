@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+- In your terminal do git clone git@github.com:akansha0412/task-manager-app.git
+- Then cd to task-manager-app and run the following scrips.
+
 ### `npm install`
 
 To install all the dependencies in local
