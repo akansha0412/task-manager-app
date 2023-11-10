@@ -36,3 +36,6 @@ You may also see any lint errors in the console.
 - Using LocalStorage for storing tasks data and deleting it on logout
 - Used styled components for CSS-in-Js with
 - Using React Chart npm package for showing pie chart in dashboard
+- Done both web and mobile view
+- Deployed the app in netlify - https://654e0a1b8dc67b6542b13f68--effervescent-capybara-c197d0.netlify.app/login
+  - But reloading of link in netlify is breaking something, please check reload and redirecting functionality in local.
