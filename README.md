@@ -32,6 +32,7 @@ You may also see any lint errors in the console.
 - Once user is login and session is created, if user goes to login he will redirect to dashboard and vice-versa
 - Using react router npm package fr routing
 - Created useForm custom react hook to handle forms (login and new task modal)
-- Using LocalStorage for storing tasks data and deleting it on logout.
+- Using useState hook to manage data
+- Using LocalStorage for storing tasks data and deleting it on logout
 - Used styled components for CSS-in-Js with
 - Using React Chart npm package for showing pie chart in dashboard
